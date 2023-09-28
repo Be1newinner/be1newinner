@@ -1,7 +1,7 @@
-<div align="center">
+<div>
   <img src="https://your-image-url.com/your-image.png" alt="Profile Image" width="200"/>
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Vijay Kumar! 👋
 
 ## 🚀 Full Stack Web and Android Developer
 
