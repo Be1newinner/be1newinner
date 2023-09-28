@@ -1,56 +1,39 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://your-image-url.com/your-image.png" alt="Profile Image" width="200"/>
 
-<h1 align="center">Hello, I'm [Your Name]! 👋</h1>
+# Hello, I'm [Your Name]! 👋
 
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Profile Image" />
-</p>
+## 🚀 Full Stack Web and Android Developer
 
-<h3 align="center">Full Stack Web and Android Developer</h3>
+Passionate about creating awesome web and Android applications using the latest technologies.
 
-<p align="center">
-  🚀 Welcome to my GitHub! I enjoy building amazing web and Android applications.
-</p>
+## 🛠️ Technologies & Tools
 
-<h2 align="center">Tech Stack</h2>
+Frontend:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 
-<p align="center">
-  <img src="https://your-tech-icon-url.com/mern.png" alt="MERN Stack" />
-  <img src="https://your-tech-icon-url.com/firebase.png" alt="Firebase" />
-  <img src="https://your-tech-icon-url.com/aws.png" alt="AWS" />
-  <!-- Add more icons for your stack -->
-</p>
+Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 
-<h2 align="center">Tools and Frameworks</h2>
+Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
-<p align="center">
-  <img src="https://your-tech-icon-url.com/tailwindcss.png" alt="Tailwind CSS" />
-  <img src="https://your-tech-icon-url.com/bootstrap.png" alt="Bootstrap" />
-  <img src="https://your-tech-icon-url.com/mui.png" alt="Material UI" />
-  <!-- Add more icons for your tools and frameworks -->
-</p>
+Others:
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
-<h2 align="center">Databases</h2>
+## 📱 Android Development
 
-<p align="center">
-  <img src="https://your-tech-icon-url.com/sql.png" alt="SQL" />
-  <img src="https://your-tech-icon-url.com/mongodb.png" alt="MongoDB" />
-  <!-- Add more icons for your databases -->
-</p>
+Proficient in Java and Android Studio for creating amazing Android applications.
 
-<h2 align="center">Connect with Me</h2>
+## 🌟 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://your-icon-url.com/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://your-icon-url.com/twitter.png" alt="Twitter" />
-  </a>
-  <!-- Add more links to your social profiles -->
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourusername)
 
-<p align="center">
-  <em>Feel free to connect with me! I'm always open to chat and collaborate.</em>
-</p>
-
+Feel free to connect and collaborate! 😊
+</div>
