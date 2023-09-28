@@ -1,7 +1,4 @@
-<div>
-  <img src="https://your-image-url.com/your-image.png" alt="Profile Image" width="200"/>
-
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Vijay! 👋
 
 ## 🚀 Full Stack Web and Android Developer
 
@@ -17,6 +14,8 @@ Frontend:
 
 Database:
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 Mobile Development:
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -37,4 +36,3 @@ Proficient in Java and Android Studio for creating amazing Android applications.
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourusername)
 
 Feel free to connect and collaborate! 😊
-</div>
