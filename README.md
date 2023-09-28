@@ -1,33 +1,35 @@
 <div>
+  <img src="https://your-image-url.com/your-image.png" alt="Profile Image" width="200"/>
 
-# Hello, I'm Vijay Kumar! 👋
+# Hello, I'm [Your Name]! 👋
 
 ## 🚀 Full Stack Web and Android Developer
 
-Passionate about creating awesome web and Android applications using the latest technologies.
+Passionate about creating awesome web and mobile applications using the latest technologies.
 
 ## 🛠️ Technologies & Tools
 
 Frontend:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 
-Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-
 Database:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-
-Others:
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+
+Mobile Development:
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
 
 ## 📱 Android Development
 
 Proficient in Java and Android Studio for creating amazing Android applications.
+
+## 💻 Other Languages
+
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ## 🌟 Let's Connect!
 
