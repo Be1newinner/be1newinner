@@ -1,6 +1,8 @@
-# Hello, I'm Vijay! 👋
+# Hello, I'm Vijay Kumar! 👋
 
 ## 🚀 Full Stack Web and Android Developer
+
+find me about me on ![Shipsar.in]https://shipsar.in
 
 Passionate about creating awesome web and mobile applications using the latest technologies.
 
