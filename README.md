@@ -38,3 +38,9 @@ Proficient in Java and Android Studio for creating amazing Android applications.
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourusername)
 
 Feel free to connect and collaborate! 😊
+
+## PAYMENT GATEWAY INTEGRATED (SERVER & SERVERLESS BOTH)
+CC AVENUE
+Instamoj
+EASEBUZZ
+RAZORPAY
