@@ -25,7 +25,7 @@ Mobile Development:
 
 ## 📱 Android Development
 
-Proficient in Java and Android Studio for creating amazing Android applications.
+PREFER REACT NATIVE
 
 ## 💻 Other Languages
 
