@@ -40,7 +40,7 @@ Proficient in Java and Android Studio for creating amazing Android applications.
 Feel free to connect and collaborate! 😊
 
 ## PAYMENT GATEWAY INTEGRATED (SERVER & SERVERLESS BOTH)
-CC AVENUE
-Instamoj
-EASEBUZZ
-RAZORPAY
+CC AVENUE  
+Instamoj  
+EASEBUZZ  
+RAZORPAY  
