@@ -1,6 +1,6 @@
 # Hello, I'm Vijay Kumar! 👋
 
-## 🚀 Full Stack Web and Android Developer
+## 🚀 Full Stack Web and Mobile App Developer
 
 Passionate about creating awesome web and mobile applications using the latest technologies.
 
