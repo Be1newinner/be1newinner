@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full Stack Web and Mobile App Developer<br>🛠️ Technologies & Tools : Python, MERN<br>Corporate Trainer.<br>Ex Trainer at Apollo Hospital.
+🚀 Full Stack Web and Mobile App Developer at Asha Tech, Saket, Delhi. <br>🛠️ Technologies & Tools : Python, MERN <br>Ex Trainer at Apollo Hospital.
 
 
 
